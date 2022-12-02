@@ -1,0 +1,28 @@
+{
+  "name": "porfolio",
+  "version": "1.0.0",
+  "description": "This is a simple hello world project",
+  "main": "index.js",
+  "dependencies": {
+    "hint": "^7.1.3"
+  },
+  "devDependencies": {
+    "stylelint": "^14.15.0",
+    "stylelint-config-standard": "^29.0.0",
+    "stylelint-csstree-validator": "^2.0.0",
+    "stylelint-scss": "^4.3.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MarcoDDM/Hello-Microverse.git"
+  },
+  "author": "MarcoDDM",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MarcoDDM/Hello-Microverse/issues"
+  },
+  "homepage": "https://github.com/MarcoDDM/Hello-Microverse#readme"
+}
