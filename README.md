@@ -1,42 +1,61 @@
-<a name="readme-top"></a>
-
 <div align="center">
 
   <img src="murple_logo.png" alt="logo" width="140"  height="auto" />
   <br/>
 
-  <h3><b>Microverse First Hello README</b></h3>
+  <h3><b>Hello Microverse Project</b></h3>
 
 </div>
 
-<!-- TABLE OF CONTENTS -->
-
-# 📗 Table of Contents
-
-- [📖 About the Project](#about-project)
-- [🚀 Live Demo](#live-demo)
-- [👥 Authors](#authors)
-- [📝 License](#license)
-
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 First Hello World <a name="about-project"></a>
+# 📖 Hello Microverse <a name="about-project"></a>
 
-> This is a simple project to start to work with the github workflow.
+**Hello Microverse** is a simple project to start with Github Workflow and linter configurations.
 
-<!-- AUTHORS -->
+## 🛠 Built With <a name="built-with"></a>
+
+> HTML, CSS, Github
+
+### Tech Stack <a name="tech-stack"></a>
+
+> Describe the tech stack and include only the relevant sections that apply to your project.
+
+<details>
+  <summary>HTML</summary>
+</details>
+
+<details>
+  <summary>CSS</summary>
+</details>
+
+<details>
+  <summary>Github</summary>
+</details>
+
+## 🚀 Live Demo <a name="live-demo"></a>
+
+- [Live Demo Link](https://github.io/hello-microverse)
 
 ## 👥 Authors <a name="authors"></a>
 
 > Mention all of the collaborators of this project.
 
-👤 **Author1**
+👤 **Marco Almada**
 
 - GitHub: [@MarcoDDM](https://github.com/MarcoDDM)
 - Twitter: [@nerdpiola](https://twitter.com/nerdpiola)
-- LinkedIn: [Marco Almada](https://linkedin.com/in/marcoalmadaar)
+- LinkedIn: [LinkedIn](https://linkedin.com/in/marcoalmadaar)
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+## 🤝 Contributing <a name="contributing"></a>
+
+Contributions, issues, and feature requests are welcome!
+
+Feel free to check the [issues page](../../issues/).
+
+## ⭐️ Show your support <a name="support"></a>
+
+If you like this project you can give us a star!
 
 <!-- LICENSE -->
 
